@@ -149,11 +149,11 @@
 이미지를 추가할 수도 있습니다.
 
 ```
-![코드잇](https://www.codeit.kr/static/images/brand/logo_original.png)
+![코드잇](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 ```
 
-![https://www.codeit.kr/static/images/brand/logo_original.png](https://www.codeit.kr/static/images/brand/logo_original.png)
+![https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg]https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 # **코드 블록**
 
